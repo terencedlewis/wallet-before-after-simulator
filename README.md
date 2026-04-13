@@ -39,9 +39,8 @@ Build a lightweight transaction impact simulator that improves user confidence a
 
 ## Demo Screenshot
 
-Add a screenshot to `docs/demo.png` and it will render below.
+![Wallet Before/After Simulator Demo]<img width="1164" height="609" alt="Screenshot 2026-04-12 at 9 13 24 PM" src="https://github.com/user-attachments/assets/d0b71b99-4f3f-49ef-8bd4-0f4f59cb33b6" />
 
-![Wallet Before/After Simulator Demo](docs/demo.png)
 
 Suggested capture: include all controls plus Before, After, and Explanation panels in one frame.
 
