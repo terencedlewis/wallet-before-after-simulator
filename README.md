@@ -1,5 +1,10 @@
 # Wallet Before / After Simulator
 
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18-20232A?logo=react)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Repo](https://img.shields.io/badge/GitHub-wallet--before--after--simulator-181717?logo=github)](https://github.com/terencedlewis/wallet-before-after-simulator)
+
 ## Product Requirement Mini Document
 
 ### Product Statement
@@ -31,6 +36,14 @@ Build a lightweight transaction impact simulator that improves user confidence a
 2. As a beginner user, I want a plain-language explanation of what the transaction will do so I can understand the impact without decoding raw numbers.
 3. As a cautious user, I want a warning when my projected balance goes below zero so I can avoid accidental overdraft behavior.
 4. As a DeFi user, I want to switch between action types like send, approve, and swap so I can preview context-specific outcomes.
+
+## Demo Screenshot
+
+Add a screenshot to `docs/demo.png` and it will render below.
+
+![Wallet Before/After Simulator Demo](docs/demo.png)
+
+Suggested capture: include all controls plus Before, After, and Explanation panels in one frame.
 
 ## Quick Start
 1. Install dependencies:
